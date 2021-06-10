@@ -6,7 +6,9 @@ This repo contains some concepts and code snippets related to Ethical hacking. T
 ## Contents
 - [chisel](./concepts/9.md)
 - [Common Commands](./commands.md)
+- [Gobuster](./concepts/12.md)
 - [Networking tools](./concepts/2.md)
+- [Nikto](./concepts/11.md)
 - [nmap](./concepts/2a.md)
 - [OSI & TCP/IP Model](./concepts/1.md)
 - [OWASP Top 10](./concepts/.md)
@@ -15,4 +17,5 @@ This repo contains some concepts and code snippets related to Ethical hacking. T
 - [shell](./concepts/5.md)
 - [socat](./concepts/7.md)
 - [sshuttle](./concepts/8.md)
+- [Static binaries](./concepts/10.md)
 - [Websites basics](./concepts/3.md)
