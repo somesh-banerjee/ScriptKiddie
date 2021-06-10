@@ -6,7 +6,8 @@ This repo contains some concepts and code snippets related to Ethical hacking. T
 ## Contents
 - [chisel](./concepts/9.md)
 - [Common Commands](./commands.md)
-- [Linux tools](./concepts/2.md)
+- [Networking tools](./concepts/2.md)
+- [nmap](./concepts/2a.md)
 - [OSI & TCP/IP Model](./concepts/1.md)
 - [OWASP Top 10](./concepts/.md)
 - [Pivoting](./concepts/4.md)
