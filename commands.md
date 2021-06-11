@@ -9,8 +9,7 @@ nmap -sC -sV -p 1-10000 <ip>
 
 We can also use the following which only scans open ports.
 ```
-ports=$(nmap -p- --min-rate=1000 -T4 <ip> | grep ^[0-9] | cut -d '/' -f
-1 | tr '\n' ',' | sed s/,$//)
+ports=$(nmap -p- --min-rate=1000 -T4 <ip> | grep ^[0-9] | cut -d '/' -f 1 | tr '\n' ',' | sed s/,$//)
 nmap -sC -sV -p$ports <ip>
 ```
 
