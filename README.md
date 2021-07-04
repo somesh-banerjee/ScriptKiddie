@@ -6,12 +6,12 @@ This repo contains some concepts and code snippets related to Ethical hacking. T
 ## Contents
 - [Burp & OWASP ZAP](./concepts/16.md)
 - [chisel](./concepts/9.md)
+- [Cross-site request forgery (CSRF)](./concepts/20.md)
 - [CVE](./concepts/13.md)
 - [Django](./concepts/15.md)
 - [enum4linux]
 - [Gobuster](./concepts/12.md)
-- [LinPEAS & LinEnum]
-- [Linux PrivEsc](./concepts/17.md)
+- [Linux PrivEsc, LinPEAS & LinEnum](./concepts/17.md)
 - [Networking tools](./concepts/2.md)
 - [Nikto](./concepts/11.md)
 - [nmap](./concepts/2a.md)
@@ -23,7 +23,7 @@ This repo contains some concepts and code snippets related to Ethical hacking. T
 - [socat](./concepts/7.md)
 - [ssh]
 - [sshuttle](./concepts/8.md)
-- [SSRF](./concepts/19.md)
+- [Server-side request forgery (SSRF)](./concepts/19.md)
 - [Static binaries](./concepts/10.md)
 - [Websites basics](./concepts/3.md)
 
