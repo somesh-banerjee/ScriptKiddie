@@ -26,6 +26,7 @@ This repo contains some concepts and code snippets related to Ethical hacking. T
 - [Server-side request forgery (SSRF)](./concepts/19.md)
 - [Static binaries](./concepts/10.md)
 - [Websites basics](./concepts/3.md)
+- [XXE](./concepts/22.md)
 
 
 ## Enumeration
