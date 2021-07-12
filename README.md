@@ -8,6 +8,7 @@ This repo contains some concepts and code snippets related to Ethical hacking. T
 - [chisel](./concepts/9.md)
 - [Cross-site request forgery (CSRF)](./concepts/20.md)
 - [CVE](./concepts/13.md)
+- [Directory traversal](./concepts/23.md)
 - [Django](./concepts/15.md)
 - [enum4linux]
 - [Gobuster](./concepts/12.md)
