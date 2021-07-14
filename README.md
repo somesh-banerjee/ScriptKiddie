@@ -20,11 +20,12 @@ This repo contains some concepts and code snippets related to Ethical hacking. T
 - [OWASP Top 10](./concepts/14.md)
 - [Pivoting](./concepts/4.md)
 - [proxychain](./concepts/6.md)
+- [Server-side request forgery (SSRF)](./concepts/19.md)
 - [shell](./concepts/5.md)
 - [socat](./concepts/7.md)
 - [ssh]
 - [sshuttle](./concepts/8.md)
-- [Server-side request forgery (SSRF)](./concepts/19.md)
+- [SQLi](./concepts/24.md)
 - [Static binaries](./concepts/10.md)
 - [Websites basics](./concepts/3.md)
 - [XXE](./concepts/22.md)
