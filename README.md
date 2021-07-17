@@ -21,6 +21,7 @@ This repo contains some concepts and code snippets related to Ethical hacking. T
 - [Pivoting](./concepts/4.md)
 - [proxychain](./concepts/6.md)
 - [Server-side request forgery (SSRF)](./concepts/19.md)
+- [Server Side Template Injection with Jinja/Flask](./concepts/25.md)
 - [shell](./concepts/5.md)
 - [socat](./concepts/7.md)
 - [ssh]
