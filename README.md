@@ -24,7 +24,7 @@ This repo contains some concepts and code snippets related to Ethical hacking. T
 - [Server Side Template Injection with Jinja/Flask](./concepts/25.md)
 - [shell](./concepts/5.md)
 - [socat](./concepts/7.md)
-- [ssh]
+- [ssh](./concepts/27.md)
 - [sshuttle](./concepts/8.md)
 - [SQLi](./concepts/24.md)
 - [Static binaries](./concepts/10.md)
