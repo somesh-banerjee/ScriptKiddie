@@ -2,7 +2,7 @@
 
 This repo contains some concepts and code snippets related to Ethical hacking. The Contents are given in alphabetical order.
 
-***Disclaimer: This is for educational purpose and not to gain unauthorized access. Using your hacking skills on machines withuot permissions is illegal, so use it with responsibility***
+***Disclaimer: This content is for educational purpose.***
 ## Contents
 - [Burp & OWASP ZAP](./concepts/16.md)
 - [chisel](./concepts/9.md)
